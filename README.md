@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 Hi, I'm Yash Lohiya
 
-<!--
-**yashlohiya-hrbp/yashlohiya-hrbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior HR Business Partner & Talent Acquisition Leader with 6.3 years of experience in HR Strategy, People Analytics, Workforce Planning, and HR Operations.
 
-Here are some ideas to get you started:
+💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+End-to-End IT & Non-IT Hiring
+
+Workforce Planning & Talent Strategy
+
+People Analytics (Excel & Tableau)
+
+HR Operations & Payroll Governance
+
+Performance Management & Retention Strategy
+
+📊 Business Impact
+
+Reduced Hiring TAT by 20%
+
+Improved Retention by 15%
+
+Ensured 100% Payroll Accuracy
+
+Built HR Dashboards for Leadership
+
+Strategic Talent Advisor to Business Leaders
+
+🛠 HR Tech & Tools
+
+Workday | Darwinbox | Zwayam | Kredily
+LinkedIn Recruiter | Naukri | Indeed | Google X-Ray
+Excel | Tableau | Jira
+
+📫 Connect With Me
+
+Email: lohiyayash3@gmail.com
+
+LinkedIn: linkedin.com/in/yash-lohiya-868042111
